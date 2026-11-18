@@ -1,24 +1,7 @@
 ## Hi there, I'm Kaytlin! 🫶🏼
 
-I'm a Master's of Marine Biology Student at James Cook University ! I'm originally from Gig Harbor, Washington, and currently living in tropical North Queensland, Australia 🐠🪸🐚 I graduated with honours from Washington State University holding a B.S. in Earth and Environmental Science with a specialization in Zoology 🌱*.*
+I'm a Master's of Marine Biology Student at James Cook University ! I'm originally from Gig Harbor, Washington, and currently living in tropical North Queensland, Australia 🐠🪸🐚 I graduated with honours from Washington State University holding a B.S. in Earth and Environmental Science with a specialization in Zoology 🌱
 
-To my core, I'm passionate about animals - keeping them safe and conserving the wildness of their home! My professional interests lie in marine megafauna conservation, animal behaviour, wildlife rescue and rehabilitation, and research that actively contributes to ecosystem protections🐋🐢.
+To my core, I'm passionate about animals - keeping them safe and conserving the wildness of their home! My professional interests lie in marine megafauna conservation, animal behaviour, wildlife rescue and rehabilitation, and research that actively contributes to ecosystem protections🐋🐢
 
 When I'm not at uni, you'll find me in the ocean 🫧, painting 🎨, getting involved in wildlife conservation🦘🤎✨
-
-```{=html}
-<!--
-**kaytlinedwards/kaytlinedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```
